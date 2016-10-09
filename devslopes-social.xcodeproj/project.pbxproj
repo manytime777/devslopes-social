@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0D25C1231DAA4E3000411CF7 /* DataServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D25C1221DAA4E3000411CF7 /* DataServices.swift */; };
+		0D25C1251DAAA00300411CF7 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D25C1241DAAA00300411CF7 /* Post.swift */; };
 		0D3FCC8C1DA15755000E08E7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D3FCC8B1DA15755000E08E7 /* AppDelegate.swift */; };
 		0D3FCC8E1DA15755000E08E7 /* SignInVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D3FCC8D1DA15755000E08E7 /* SignInVC.swift */; };
 		0D3FCC911DA15755000E08E7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D3FCC8F1DA15755000E08E7 /* Main.storyboard */; };
@@ -27,6 +28,7 @@
 
 /* Begin PBXFileReference section */
 		0D25C1221DAA4E3000411CF7 /* DataServices.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataServices.swift; sourceTree = "<group>"; };
+		0D25C1241DAAA00300411CF7 /* Post.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
 		0D3FCC881DA15755000E08E7 /* devslopes-social.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "devslopes-social.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D3FCC8B1DA15755000E08E7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0D3FCC8D1DA15755000E08E7 /* SignInVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInVC.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 		0D3FCC9F1DA15AB0000E08E7 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				0D25C1241DAAA00300411CF7 /* Post.swift */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -294,6 +297,7 @@
 				0D642B3A1DA7802C00578CAA /* CircleView.swift in Sources */,
 				0D4CB9F71DA410040000410B /* FancyField.swift in Sources */,
 				0D3FCC8E1DA15755000E08E7 /* SignInVC.swift in Sources */,
+				0D25C1251DAAA00300411CF7 /* Post.swift in Sources */,
 				0D4CB9F51DA40DB40000410B /* RoundBtn.swift in Sources */,
 				0D3FCC8C1DA15755000E08E7 /* AppDelegate.swift in Sources */,
 				0D25C1231DAA4E3000411CF7 /* DataServices.swift in Sources */,
